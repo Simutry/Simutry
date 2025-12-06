@@ -1,0 +1,28 @@
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\test2\library\bin\Debug\net9.0\TestProject.exe
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\test2\library\bin\Debug\net9.0\TestProject.deps.json
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\test2\library\bin\Debug\net9.0\TestProject.runtimeconfig.json
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\test2\library\bin\Debug\net9.0\TestProject.dll
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\test2\library\bin\Debug\net9.0\TestProject.pdb
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\test2\library\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\test2\library\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\test2\library\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\test2\library\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\test2\library\obj\Debug\net9.0\TestProject.dll
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\test2\library\obj\Debug\net9.0\refint\TestProject.dll
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\test2\library\obj\Debug\net9.0\TestProject.pdb
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\test2\library\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\test2\library\obj\Debug\net9.0\ref\TestProject.dll
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\105965544 - KUA HOCK SING - Custom Program\library\bin\Debug\net9.0\TestProject.exe
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\105965544 - KUA HOCK SING - Custom Program\library\bin\Debug\net9.0\TestProject.deps.json
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\105965544 - KUA HOCK SING - Custom Program\library\bin\Debug\net9.0\TestProject.runtimeconfig.json
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\105965544 - KUA HOCK SING - Custom Program\library\bin\Debug\net9.0\TestProject.dll
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\105965544 - KUA HOCK SING - Custom Program\library\bin\Debug\net9.0\TestProject.pdb
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\105965544 - KUA HOCK SING - Custom Program\library\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\105965544 - KUA HOCK SING - Custom Program\library\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\105965544 - KUA HOCK SING - Custom Program\library\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\105965544 - KUA HOCK SING - Custom Program\library\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\105965544 - KUA HOCK SING - Custom Program\library\obj\Debug\net9.0\TestProject.dll
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\105965544 - KUA HOCK SING - Custom Program\library\obj\Debug\net9.0\refint\TestProject.dll
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\105965544 - KUA HOCK SING - Custom Program\library\obj\Debug\net9.0\TestProject.pdb
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\105965544 - KUA HOCK SING - Custom Program\library\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+C:\Users\HS Kua\OneDrive\Desktop\Studies\COS20007-Labs\Assignement\105965544 - KUA HOCK SING - Custom Program\library\obj\Debug\net9.0\ref\TestProject.dll
